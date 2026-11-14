@@ -1,12 +1,12 @@
 # FUNK MASTER
 
-**O rack de funk da VVO Audio em forma de plugin (VST3 e Audio Unit) para macOS.** Groove, brilho, soco, reverb, delay e o RITMADA dançando no palco enquanto você gira o botão.
+**O rack de funk da VVO Audio em forma de plugin (VST3 e Audio Unit) para macOS e VST3 para Windows.** Groove, brilho, soco, reverb, delay e o RITMADA dançando no palco enquanto você gira o botão.
 
 **[⬇ Baixar a versão mais recente](https://github.com/vvoaudio/funkmaster-releases/releases/latest)**
 
 ![FUNK MASTER, interface completa](https://raw.githubusercontent.com/vvoaudio/funkmaster-releases/main/media/funk-master-ui.png)
 
-> **Versão 0.0.1: primeira versão de teste.** Tudo funciona, mas dois efeitos (SOCA e SUPEREFEITO) ainda não soam exatamente como o rack original do Ableton. Eles serão ajustados nas próximas versões.
+> **Versão 0.0.3: versão de teste.** SUPEREFEITO e SOCA agora ajustados a partir de gravações do rack; SOCA no máximo e o HI CUT ainda estão em ajuste.
 
 | | macOS |
 |---|---|
@@ -16,7 +16,7 @@
 | Formato | VST3 + Audio Unit (AU) |
 | Instala em | `/Library/Audio/Plug-Ins/VST3/` e `/Library/Audio/Plug-Ins/Components/` |
 
-Windows: ainda não disponível nesta versão.
+**Windows:** `FunkMaster-<versão>-Windows-Setup.exe`, VST3 de 64 bits, Windows 10 ou posterior, instala em `C:\Program Files\Common Files\VST3\`. O instalador não tem assinatura digital: se o Windows mostrar "O Windows protegeu seu PC", clique em **Mais informações** e depois em **Executar assim mesmo**.
 
 ## O que ele faz
 - **RITMADA (botão grande, 1 a 6):** escolhe uma das 6 cadeias de efeito do rack, cada uma com o seu groove. O som troca de cadeia na hora em cada número. Com o projeto tocando, o RITMADA dança no tempo da sua DAW (cada passo cai no tempo); parado, ele acompanha o botão. Os ecos e o reverb da cadeia anterior continuam soando até sumir.
