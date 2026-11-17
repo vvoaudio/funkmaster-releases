@@ -6,7 +6,7 @@
 
 ![FUNK MASTER, interface completa](https://raw.githubusercontent.com/vvoaudio/funkmaster-releases/main/media/funk-master-ui.png)
 
-> **Versão 0.0.3: versão de teste.** SUPEREFEITO e SOCA agora ajustados a partir de gravações do rack; SOCA no máximo e o HI CUT ainda estão em ajuste.
+> **Versão 0.0.4: versão de teste.** SUPEREFEITO e SOCA agora ajustados a partir de gravações do rack; SOCA no máximo e o HI CUT ainda estão em ajuste.
 
 | | macOS |
 |---|---|
